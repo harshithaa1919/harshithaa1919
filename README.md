@@ -1,23 +1,49 @@
-Hi there 👋
+# Hi there 👋 I'm Harshitha
 
-<!--
-**harshithaa1919/harshithaa1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+💻 I’m currently working on  
+Tuberculosis detection from limited chest X-ray datasets using transfer learning and optimized data augmentation techniques.
 
-# 💫 About Me:
-💻 I’m currently working on  <br>Tuberculosis detection from limited chest X-ray datasets using transfer learning and optimized data augmentation techniques.<br><br>🤝 I’m looking to collaborate on  <br>AI-based projects, Python applications, and web development projects.<br><br>🫶 I’m looking for help with  <br>Improving problem-solving skills and building efficient, scalable solutions.<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms, Full Stack Development, and Machine Learning.<br><br>💬 Ask me about  <br>Python, basic AI/ML concepts, web development, and coding fundamentals.<br><br>⚡ Fun fact  <br>I enjoy solving real-world problems using technology and turning ideas into impactful projects.
+🤝 I’m looking to collaborate on  
+AI-based projects, Python applications, and web development projects.
+
+🫶 I’m looking for help with  
+Improving problem-solving skills and building efficient, scalable solutions.
+
+🌱 I’m currently learning  
+Data Structures & Algorithms, Full Stack Development, and Machine Learning.
+
+💬 Ask me about  
+Python, AI/ML basics, web development, and coding.
+
+⚡ Fun fact  
+I love turning real-world problems into tech solutions 🚀
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshitha T) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithaa.t2006@gmail.com) 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:harshithaa.t2006@gmail.com)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshithaa1919&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=harshithaa1919&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshithaa1919&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=harshithaa1919&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=harshithaa1919&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=harshithaa1919&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithaa1919&layout=compact&theme=radical)
+
+
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=harshithaa1919&color=blue)
