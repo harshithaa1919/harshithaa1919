@@ -1,23 +1,18 @@
-# Hi there 👋 I'm Harshitha
+# Hi, I'm Harshitha T 👋
 
-## 💫 About Me
-💻 I’m currently working on  
-Tuberculosis detection from limited chest X-ray datasets using transfer learning and optimized data augmentation techniques.
+### Computer Science & Engineering Undergraduate | Software Development | AI/ML
 
-🤝 I’m looking to collaborate on  
-AI-based projects, Python applications, and web development projects.
+I'm a B.Tech CSE student interested in building practical software and AI/ML solutions.
 
-🫶 I’m looking for help with  
-Improving problem-solving skills and building efficient, scalable solutions.
+I work with Python, Java, SQL and web/backend technologies, and I'm currently strengthening my skills in Data Structures & Algorithms, backend development and Machine Learning.
 
-🌱 I’m currently learning  
-Data Structures & Algorithms, Full Stack Development, and Machine Learning.
 
-💬 Ask me about  
-Python, AI/ML basics, web development, and coding.
+💡 Interested in:
+- Software Development
+- Backend Development
+- AI/ML
+- Problem Solving
 
-⚡ Fun fact  
-I love turning real-world problems into tech solutions 🚀
 
 
 ## 🌐 Socials
